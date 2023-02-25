@@ -13,7 +13,7 @@ PARENT_DIR = os.path.join(FILE_DIR, os.pardir)
 dir_of_interest = os.path.join(PARENT_DIR, "resources")
 
 IMAGE_PATH = os.path.join(dir_of_interest, "images", "car_i.jpeg")
-DATA_PATH = os.path.join(dir_of_interest, "data", "car_df.csv")
+DATA_PATH = os.path.join(dir_of_interest, "data", "Car_df.csv")
 
 st.title("Dashboard - Car Data")
 
