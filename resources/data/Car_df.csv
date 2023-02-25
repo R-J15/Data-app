@@ -1,0 +1,421 @@
+id,Brand_name,Model_name,Year,Total_Price,Zero_Down_Payment,Owner,Oil,KM_on_Road,Transmission
+1, Maruti , Maruti Alto ,2015,299899,6671,1st Owner,Petrol,6381,LXI Manual
+2, Maruti , Maruti Celerio X,2020,660599,14695,1st Owner,Petrol,4613,ZXI OPT AMT Automatic
+3, Renault , Renault TRIBER,2020,689999,15349,2nd Owner,Petrol,17396,RXZ AT Automatic
+4, Maruti , Maruti Celerio,2015,359999,8008,1st Owner,Petrol,22939,LXI Manual
+5, Hyundai , Hyundai i,2013,379199,8435,1st Owner,Petrol,34587,MAGNA O 1.2 Manual
+6, Maruti , Maruti Wagon R ,2014,358899,7984,1st Owner,Petrol,13712,LXI Manual
+7, Hyundai , Hyundai i,2012,390399,8684,1st Owner,Petrol,38910,SPORTZ 1.2 VTVT Manual
+8, Renault , Renault TRIBER,2019,726499,16161,1st Owner,Petrol,7440,1.0 RXZ Manual
+9, Maruti , Maruti Celerio,2016,422999,9409,2nd Owner,Petrol,9836,VXI AMT Automatic
+10, Maruti , Maruti Swift Dzire,2012,461299,10261,1st Owner,Diesel,134186,VDI BS IV Manual
+11, Mahindra , Mahindra XUV,2019,1683899,37457,2nd Owner,Diesel,29100,W11 (O) AT Automatic
+12, KIA , KIA SONET,2020,1508299,33551,1st Owner,Diesel,10769,GTX PLUS 1.5 DCT AT 
+13, Honda , Honda Amaze,2020,642299,14288,1st Owner,Petrol,11596,1.2 EMT I VTEC Manual
+14, Maruti , Maruti Ritz,2014,409099,9100,1st Owner,Petrol,58849,VXI Manual
+15, Maruti , Maruti Swift,2017,529299,11774,1st Owner,Petrol,33801,VXI Manual
+16, Hyundai , Hyundai Creta,2019,1394499,31020,2nd Owner,Petrol,18549,1.6 SX VTVT (O) EXECUTIVE Manual
+17, Renault , Renault Kwid,2021,595599,13249,1st Owner,Petrol,810,1.0 RXT Opt AT Automatic
+18, Tata , Tata Tiago,2017,517599,11514,2nd Owner,Petrol,3678,XZA 1.2 REVOTRON Automatic
+19, Maruti , Maruti Alto ,2016,291999,6495,1st Owner,Petrol,32750,VXI Manual
+20, Maruti , Maruti Swift Dzire,2016,637299,14176,1st Owner,Diesel,47547,ZDI Manual
+21, MG , MG HECTOR,2019,1736799,38634,1st Owner,Diesel,29347,SHARP 2.0 DIESEL Manual
+22, Tata , Tata NEXON,2020,1049599,23348,1st Owner,Petrol,5327,XZ+ OPT PETROL Manual
+23, Toyota , Toyota URBAN CRUISER,2020,1212499,26971,2nd Owner,Petrol,15580,PREMIUM DUAL TONE AT 
+24, Hyundai , Hyundai Elite i,2015,502999,11189,2nd Owner,Petrol,32964,ASTA 1.2 Manual
+25, Maruti , Maruti Swift Dzire,2012,423099,9412,2nd Owner,Diesel,94,VDI BS IV Manual
+26, Maruti , Maruti Swift,2015,513699,11427,1st Owner,Petrol,24045,VXI Manual
+27, Maruti , Maruti New  Wagon-R,2020,652899,14523,1st Owner,Petrol,11907,ZXI 1.2L AGS Automatic
+28, Volkswagen , Volkswagen Vento,2014,489499,10889,1st Owner,Petrol,39841,HIGHLINE PETROL Manual
+29, Maruti , Maruti Swift Dzire,2015,474299,10551,1st Owner,Petrol,53090,VXI 1.2 BS IV Manual
+30, Maruti , Maruti New  Wagon-R,2019,548399,12199,1st Owner,Petrol,35273,VXI (O) 1.2L Manual
+31, Maruti , Maruti Ertiga,2016,772499,17184,1st Owner,Diesel,73810,VDI SHVS Manual
+32, Hyundai , Hyundai Eon,2014,312899,6960,1st Owner,Petrol,16583,SPORTZ Manual
+33, Tata , Tata Harrier,2019,1651799,36743,1st Owner,Diesel,49744,XZ 2.0L Kryotec Manual
+34, Renault , Renault Kwid,2019,471499,10488,1st Owner,Petrol,3615,RXT 1.0 EASY-R AT OPTION Automatic
+35, Volkswagen , Volkswagen Polo,2015,518299,11529,1st Owner,Petrol,94384,GT TSI 1.2 PETROL AT Automatic
+36, Honda , Honda Civic,2019,1576399,35066,1st Owner,Diesel,80920,VX DIESEL Manual
+37, Hyundai , Hyundai AURA,2020,617099,13727,1st Owner,Petrol,12810,E MT 1.2 KAPPA Manual
+38, Hyundai , Hyundai Xcent,2014,504499,11222,1st Owner,Petrol,61977,SX 1.2 OPT Manual
+39, Hyundai , Hyundai i,2013,396099,8811,2nd Owner,Petrol,41342,ASTA 1.2 Manual
+40, Hyundai , Hyundai Elite i,2016,537999,11967,1st Owner,Petrol,25895,MAGNA 1.2 Manual
+41, Toyota , Toyota Innova Crysta,2018,2157799,47999,1st Owner,Diesel,37590,2.8 ZX AT 7 STR Automatic
+42, Maruti , Maruti Ciaz,2017,830099,18465,1st Owner,Petrol,30492,ZETA 1.4 VVT AMT Automatic
+43, Honda , Honda City,2014,661399,14712,1st Owner,Diesel,66011,VX MT DIESEL Manual
+44, Honda , Honda City,2015,676799,15055,1st Owner,Petrol,57339,VX MT PETROL Manual
+45, Hyundai , Hyundai Grand i,2018,532999,11856,1st Owner,Petrol,16868,SPORTZ 1.2 KAPPA VTVT Manual
+46, Toyota , Toyota Etios,2018,617199,13729,2nd Owner,Petrol,19949,V Manual
+47, Maruti , Maruti S PRESSO,2020,504299,11218,3rd Owner,Petrol,5746,VXI PLUS AGS Automatic
+48, Honda , Honda City,2017,1023599,22769,2nd Owner,Petrol,19400,ZX CVT Automatic
+49, Hyundai , Hyundai Elite i,2015,476349,10596,1st Owner,Petrol,52222,MAGNA 1.2 Manual
+50, Renault , Renault Kwid,2019,441999,9832,1st Owner,Petrol,13513,RXT 1.0 EASY-R AT OPTION Automatic
+51, Ford , Ford Ecosport,2017,844999,18797,1st Owner,Petrol,471,1.5 TITANIUM TI VCT AT Automatic
+52, Honda , Honda Jazz,2019,857399,19072,1st Owner,Petrol,12037,1.2 VX AT Automatic
+53, Maruti , Maruti Celerio,2017,452099,10057,1st Owner,Petrol,16313,ZXI Manual
+54, Honda , Honda Jazz,2016,529099,11770,1st Owner,Petrol,34633,VX  1.2 Manual
+55, Hyundai , Hyundai Eon,2018,369299,8215,1st Owner,Petrol,25031,MAGNA PLUS Manual
+56, Toyota , Toyota Corolla Altis,2014,742349,16513,1st Owner,Petrol,53337,J S Manual
+57, Mahindra , Mahindra XUV ,2019,1188899,26446,1st Owner,Diesel,39391,W8(O) Manual
+58, Volkswagen , Volkswagen Polo,2017,821799,18280,1st Owner,Petrol,48562,GT TSI 1.2 PETROL AT Automatic
+59, Honda , Honda Amaze,2019,636599,14161,1st Owner,Petrol,9076,1.2 SMT I VTEC Manual
+60, Maruti , Maruti Celerio,2017,454399,10108,2nd Owner,Petrol + CNG,53314,VXI CNG Manual
+61, Hyundai , Hyundai Creta,2015,956199,21270,1st Owner,Diesel,41887,1.6 SX CRDI Manual
+62, Hyundai , Hyundai Elite i,2016,561499,12490,2nd Owner,Petrol,15692,SPORTZ 1.2 Manual
+63, Volkswagen , Volkswagen Polo,2017,701399,15602,2nd Owner,Petrol,30224,GT TSI 1.2 PETROL AT Automatic
+64, Maruti , Maruti Dzire,2019,714299,15889,1st Owner,Petrol,31248,VXI AMT Automatic
+65, Hyundai , Hyundai Eon,2018,371199,8257,1st Owner,Petrol,27167,ERA PLUS Manual
+66, Maruti , Maruti Ciaz,2016,633549,14093,1st Owner,Petrol,32503,VXI OPT Manual
+67, Hyundai , Hyundai Elite i,2017,526299,11707,1st Owner,Petrol,41211,Magna Executive 1.2 Manual
+68, Maruti , Maruti Baleno,2016,598799,13320,1st Owner,Petrol,24678,ZETA 1.2 K12 Manual
+69, Hyundai , Hyundai Elite i,2016,495099,11013,1st Owner,Petrol,130064,SPORTZ 1.2 Manual
+70, Renault , Renault Kwid,2018,414399,9218,1st Owner,Petrol,20036,RXT 1.0 EASY-R AT OPTION Automatic
+71, Maruti , Maruti Wagon R ,2016,404799,9005,2nd Owner,Petrol,18537,VXI Manual
+72, Hyundai , Hyundai Grand i,2016,465799,10361,1st Owner,Petrol,21815,SPORTZ 1.2 KAPPA VTVT Manual
+73, Maruti , Maruti Dzire,2019,671599,14939,1st Owner,Petrol,27546,VXI Manual
+74, Honda , Honda Jazz,2016,567299,12619,1st Owner,Petrol,32071,VX  1.2 Manual
+75, Honda , Honda City,2016,678399,15091,1st Owner,Petrol,85211,VX MT PETROL Manual
+76, Honda , Honda Jazz,2015,528699,11761,1st Owner,Petrol,16566,1.2 S MT Manual
+77, Maruti , Maruti Baleno,2016,580699,12917,1st Owner,Petrol,32556,DELTA 1.2 K12 Manual
+78, Hyundai , Hyundai Elite i,2018,586699,13051,1st Owner,Petrol,42012,Magna Executive 1.2 Manual
+79, Volkswagen , Volkswagen Vento,2016,719499,16005,1st Owner,Diesel,81316,HIGHLINE TDI AT Automatic
+80, KIA , KIA SELTOS,2019,1613699,35896,1st Owner,Petrol,12408,GTX+ 1.4 MT Manual
+81, Hyundai , Hyundai Elite i,2015,595699,13251,2nd Owner,Diesel,79569,ASTA 1.4 CRDI Manual
+82, Hyundai , Hyundai Grand i,2014,387999,8631,2nd Owner,Petrol,43624,SPORTS 1.2 VTVT Manual
+83, Hyundai , Hyundai Grand i,2014,408399,9085,2nd Owner,Petrol,38225,SPORTZ 1.2 KAPPA VTVT Manual
+84, Renault , Renault Kwid,2018,440899,9808,1st Owner,Petrol,5862,RXT 1.0 EASY-R AT OPTION Automatic
+85, Hyundai , Hyundai Grand i,2016,432399,9618,1st Owner,Petrol,59839,SPORTS 1.2 VTVT Manual
+86, Hyundai , Hyundai Creta,2020,1952399,43430,1st Owner,Diesel,25706,1.6 SX AT CRDI Automatic
+87, Honda , Honda Amaze,2018,563499,12535,1st Owner,Petrol,65631,1.2 EMT I VTEC Manual
+88, Hyundai , Hyundai Elite i,2016,570199,12684,1st Owner,Petrol,43278,SPORTZ 1.2 Manual
+89, Honda , Honda Amaze,2013,411999,9165,1st Owner,Petrol,39409,1.2 SMT I VTEC Manual
+90, Toyota , Toyota YARIS,2018,1086699,24173,1st Owner,Petrol,79209,VX CVT Automatic
+91, Hyundai , Hyundai Creta,2020,1508299,33551,1st Owner,Petrol,13708,SX PETROL MT Manual
+92, Hyundai , Hyundai NEW SANTRO,2018,485799,10806,1st Owner,Petrol,43734,ASTA 1.1 MT Manual
+93, Maruti , Maruti Baleno,2016,573099,12748,1st Owner,Petrol,48104,ZETA 1.2 K12 Manual
+94, Toyota , Toyota Innova,2012,732599,16296,1st Owner,Diesel,353688,2.5 GX 8 STR BS IV Manual
+95, Datsun , Datsun Redi Go,2021,472299,10506,1st Owner,Petrol,291,T (O) Manual
+96, Maruti , Maruti Dzire,2018,663099,14750,2nd Owner,Petrol,52858,VXI Manual
+97, Hyundai , Hyundai Grand i,2019,604099,13438,1st Owner,Petrol + CNG,44274,MAGNA CNG Manual
+98, Ford , Ford Ecosport,2017,695399,15469,1st Owner,Diesel,43284,1.5TITANIUM TDCI Manual
+99, Maruti , Maruti Baleno,2015,536999,11945,1st Owner,Petrol,25316,ZETA 1.2 K12 Manual
+100, Mahindra , Mahindra XUV ,2019,1147399,25523,1st Owner,Petrol,15913,1.2 W8 OPT 
+101, Ford , Ford Ecosport,2019,814099,18109,1st Owner,Petrol,19840,1.5 TREND TI VCT Manual
+102, Hyundai , Hyundai i,2014,452099,10057,1st Owner,Petrol,40495,ASTA 1.2 Manual
+103, Hyundai , Hyundai Grand i,2014,401199,8924,2nd Owner,Petrol,58292,SPORTZ 1.2 KAPPA VTVT Manual
+104, Maruti , Maruti Dzire,2018,676799,15055,1st Owner,Petrol,15053,VXI Manual
+105, Maruti , Maruti Wagon R ,2016,422699,9403,1st Owner,Petrol,23055,VXI Manual
+106, Tata , Tata ALTROZ,2020,858899,19106,1st Owner,Petrol,20736,XZ 1.2 Manual
+107, Renault , Renault Kwid,2017,387099,8611,1st Owner,Petrol,44697,RXT 1.0 EASY-R AT OPTION Automatic
+108, Hyundai , Hyundai Grand i,2016,475699,10582,1st Owner,Petrol,28987,SPORTZ 1.2 KAPPA VTVT Manual
+109, Skoda , Skoda Superb,2016,1400477,31153,1st Owner,Petrol,50230,1.8 TSI STYLE AT Automatic
+110, Honda , Honda Amaze,2021,974059,21667,1st Owner,Petrol,11312,1.2 V CVT I VTEC Automatic
+111, Hyundai , Hyundai Grand i,2015,450699,10026,1st Owner,Petrol,66495,ASTA 1.2 (O) VTVT Manual
+112, Maruti , Maruti Baleno,2019,686699,15275,2nd Owner,Petrol,21363,ZETA 1.2 K12 Manual
+113, Maruti , Maruti Vitara Brezza,2019,969799,21573,1st Owner,Diesel,49685,ZDI PLUS Manual
+114, Hyundai , Hyundai Grand i,2013,395199,8791,1st Owner,Diesel,43249,SPORTZ 1.1 CRDI Manual
+115, Hyundai , Hyundai Grand i,2014,410199,9125,2nd Owner,Petrol,57325,SPORTS 1.2 VTVT Manual
+116, Maruti , Maruti Dzire,2018,662499,14737,1st Owner,Petrol,40489,VXI Manual
+117, Maruti , Maruti Baleno,2018,738999,16439,1st Owner,Petrol,23793,ALPHA 1.2 K12 Manual
+118, Maruti , Maruti Dzire,2018,704199,15665,1st Owner,Petrol,19132,VXI Manual
+119, Maruti , Maruti Vitara Brezza,2019,838929,18662,1st Owner,Diesel,44471,VDI Manual
+120, Maruti , Maruti Wagon R ,2017,445899,9919,1st Owner,Petrol,25038,VXI Manual
+121, MG , MG HECTOR,2019,1742999,38772,1st Owner,Diesel,73681,SHARP 2.0 DIESEL Manual
+122, Ford , Ford Ecosport,2016,669399,14890,1st Owner,Petrol,66563,1.5 TITANIUM TI VCT AT Automatic
+123, Maruti , Maruti Wagon R ,2016,449999,10010,1st Owner,Petrol + CNG,41834,LXI CNG Manual
+124, Maruti , Maruti Ciaz,2018,867499,19297,1st Owner,Petrol,27292,ALPHA 1.4 VVT Manual
+125, MG , MG HECTOR,2019,1721399,38292,1st Owner,Diesel,49110,SHARP 2.0 DIESEL Manual
+126, Hyundai , Hyundai Elite i,2017,643499,14314,1st Owner,Petrol,35165,ASTA 1.2 Manual
+127, Skoda , Skoda Rapid,2021,1400399,31151,1st Owner,Petrol,3357,STYLE 1.0 AT Automatic
+128, Hyundai , Hyundai Verna,2017,752499,16739,2nd Owner,Petrol,43088,FLUIDIC 1.6 SX VTVT Manual
+129, Honda , Honda Jazz,2018,691399,15380,1st Owner,Petrol,53415,1.2 V AT Automatic
+130, Maruti , Maruti Alto ,2017,305599,6798,1st Owner,Petrol,20050,LXI Manual
+131, Maruti , Maruti Dzire,2018,762599,16964,2nd Owner,Diesel,30362,ZDI Plus Manual
+132, Maruti , Maruti Dzire,2018,719799,16012,1st Owner,Diesel,53333,VDI AMT Automatic
+133, Honda , Honda City,2017,757699,16855,1st Owner,Petrol,19415,V MT PETROL Manual
+134, Maruti , Maruti Baleno,2016,558499,12424,1st Owner,Petrol,51684,DELTA 1.2 K12 Manual
+135, Jeep , Jeep Compass,2017,1418599,31556,1st Owner,Diesel,78451,LIMITED (O) 2.0 4*4 Manual
+136, Maruti , Maruti Baleno,2019,694299,15444,1st Owner,Petrol,44408,ZETA 1.2 K12 Manual
+137, Tata , Tata TIGOR,2020,740099,16463,1st Owner,Petrol,12618,XZ PLUS 1.2 REVOTRON Manual
+138, Tata , Tata ALTROZ,2020,805399,17916,1st Owner,Petrol,16667,XZ 1.2 Manual
+139, Tata , Tata ALTROZ,2020,814959,18128,1st Owner,Petrol,17689,XZ 1.2 Manual
+140, Ford , Ford Ecosport,2016,756699,16832,1st Owner,Diesel,71,1.5 TITANIUMTDCI OPT Manual
+141, MG , MG HECTOR,2019,1610038,35814,2nd Owner,Diesel,28867,SHARP 2.0 DIESEL 
+142, Maruti , Maruti S Cross,2018,889548,19788,1st Owner,Diesel,47301,ZETA 1.3 SHVS Manual
+143, Hyundai , Hyundai Creta,2017,924099,20556,1st Owner,Petrol,32930,SX PLUS 1.6 DUAL TONE VTVT Manual
+144, Maruti , Maruti S Cross,2019,1130699,25152,1st Owner,Diesel,20768,ZETA SHVS Manual
+145, Maruti , Maruti Ciaz,2017,750699,16699,1st Owner,Petrol,8142,ZETA 1.4 VVT Manual
+146, Maruti , Maruti Baleno,2018,633999,14103,1st Owner,Petrol,21197,DELTA 1.2 K12 Manual
+147, Maruti , Maruti Vitara Brezza,2016,717999,15971,1st Owner,Diesel,53131,VDI Manual
+148, Tata , Tata ALTROZ,2020,791949,17616,1st Owner,Petrol,10543,XZ 1.2 Manual
+149, Hyundai , Hyundai Grand i,2017,652399,14512,1st Owner,Diesel,13313,ASTA 1.2 CRDI Manual
+150, Maruti , Maruti Baleno,2017,577599,12848,1st Owner,Petrol,69516,ALPHA 1.2 K12 Manual
+151, Maruti , Maruti Baleno,2017,594299,13220,1st Owner,Petrol,23954,DELTA 1.2 K12 Manual
+152, Honda , Honda City,2017,918699,20436,1st Owner,Petrol,25701,VX MT PETROL Manual
+153, Maruti , Maruti Baleno,2018,675499,15026,2nd Owner,Petrol,17514,ALPHA 1.2 K12 Manual
+154, Maruti , Maruti Baleno,2019,750799,16701,1st Owner,Petrol,12212,ZETA 1.2 K12 Manual
+155, Mahindra , Mahindra TUV,2017,823099,18309,1st Owner,Diesel,47726,T8 Manual
+156, Maruti , Maruti S PRESSO,2020,476899,10608,1st Owner,Petrol,13332,VXI Manual
+157, Maruti , Maruti Baleno,2017,616199,13707,2nd Owner,Petrol,37322,RS 1.0 PETROL Manual
+158, Honda , Honda Amaze,2019,776999,17284,1st Owner,Petrol,13105,1.2 V CVT I VTEC Automatic
+159, Maruti , Maruti Alto,2019,398155,8857,1st Owner,Petrol,14577,VXI Manual
+160, Hyundai , Hyundai VENUE,2019,1119599,24905,1st Owner,Petrol,9179,1.0 TURBO GDI SX+ AT Automatic
+161, Ford , Ford Ecosport,2017,742199,16510,2nd Owner,Petrol,34647,1.5 TITANIUM TI VCT AT Automatic
+162, Maruti , Maruti S PRESSO,2021,484199,10771,1st Owner,Petrol,5952,VXI PLUS Manual
+163, Hyundai , Hyundai Elite i,2017,658499,14648,1st Owner,Petrol,47830,ASTA 1.2 Manual
+164, Maruti , Maruti S PRESSO,2020,535799,11919,1st Owner,Petrol,8355,VXI PLUS AGS Automatic
+165, Maruti , Maruti Alto,2019,399999,8898,1st Owner,Petrol,13333,VXI Manual
+166, MG , MG HECTOR,2019,1679699,37364,1st Owner,Diesel,38726,SHARP 2.0 DIESEL Manual
+167, Volkswagen , Volkswagen Ameo,2016,501799,11162,1st Owner,Petrol,30635,HIGHLINE 1.2 Manual
+168, Maruti , Maruti Baleno,2017,651199,14486,1st Owner,Petrol,29328,ALPHA 1.2 K12 Manual
+169, Ford , Ford Ecosport,2019,840799,18703,2nd Owner,Petrol,7380,TREND + 1.5 TI VCT AT Automatic
+170, Tata , Tata Hexa,2018,1119999,24914,1st Owner,Diesel,91825,Varicor 400 XT Manual
+171, Hyundai , Hyundai i,2015,609599,13560,1st Owner,Diesel,71869,1.4 SX Manual
+172, Maruti , Maruti Baleno,2017,664499,14781,1st Owner,Petrol,39028,ALPHA 1.2 K12 Manual
+173, Hyundai , Hyundai i,2015,581299,12931,1st Owner,Diesel,143492,1.4 SX Manual
+174, Maruti , Maruti Dzire,2017,662199,14730,1st Owner,Diesel,107368,VDI Manual
+175, Hyundai , Hyundai Creta,2018,1330799,29603,1st Owner,Diesel,57341,1.6 SX AT CRDI Automatic
+176, Honda , Honda Civic,2019,1669699,37142,1st Owner,Petrol,30026,ZX CVT PETROL Automatic
+177, Maruti , Maruti Alto K,2018,420399,9352,1st Owner,Petrol,12709,VXI Manual
+178, Ford , Ford Ecosport,2018,847599,18854,1st Owner,Diesel,69796,1.5 TDCI TITANIUM PLUS Manual
+179, Hyundai , Hyundai i,2017,729399,16225,1st Owner,Petrol,21416,1.2 SX Manual
+180, Hyundai , Hyundai Verna,2018,1164199,25897,1st Owner,Petrol,8856,1.6 SX VTVT AT (O) Automatic
+181, Honda , Honda WR-V,2018,878399,19540,1st Owner,Petrol,15414,1.2 i-VTEC VX MT Manual
+182, Hyundai , Hyundai Verna,2018,1110099,24694,1st Owner,Petrol,15953,1.6 SX VTVT AT (O) Automatic
+183, Maruti , Maruti Baleno,2018,689599,15340,2nd Owner,Petrol,33893,ALPHA 1.2 K12 Manual
+184, Maruti , Maruti Baleno,2019,810999,18040,1st Owner,Petrol,8544,ALPHA 1.2 K12 Manual
+185, KIA , KIA SELTOS,2020,1911499,42520,1st Owner,Petrol,26650,1.4 GTX+ TURBO GDI PETROL AT Automatic
+186, Maruti , Maruti Baleno,2017,656099,14595,1st Owner,Petrol,46880,ALPHA 1.2 K12 Manual
+187, KIA , KIA SELTOS,2020,1911499,42520,1st Owner,Petrol,11207,1.4 GTX+ TURBO GDI PETROL AT Automatic
+188, Ford , Ford Ecosport,2018,792199,17622,1st Owner,Petrol,40807,1.5 TITANIUM PLUS TI VCT AT Automatic
+189, Ford , Ford Ecosport,2017,759099,16886,2nd Owner,Petrol,53135,1.5 TITANIUM TI VCT AT Automatic
+190, Ford , Ford Ecosport,2017,901699,20058,1st Owner,Petrol,32505,1.5 TITANIUM PLUS TI VCT AT Automatic
+191, Toyota , Toyota Glanza,2019,749999,16683,1st Owner,Petrol,44394,G CVT Automatic
+192, Hyundai , Hyundai Verna,2018,1023299,22763,1st Owner,Petrol,60463,1.6 SX VTVT AT (O) Automatic
+193, Toyota , Toyota Glanza,2019,827699,18412,1st Owner,Petrol,32985,V CVT Automatic
+194, Jeep , Jeep Compass,2019,1698199,37775,2nd Owner,Petrol,30583,1.4 LIMITED PLUS AT Automatic
+195, Maruti , Maruti IGNIS,2017,500999,11144,2nd Owner,Petrol,31920,ZETA 1.2 K12 AMT Automatic
+196, Honda , Honda WR-V,2018,889299,19782,1st Owner,Diesel,66878,1.5 i-DTEC VX MT Manual
+197, Honda , Honda BR-V,2016,700299,15578,1st Owner,Petrol,84427,1.5 i-VTEC V CVT Automatic
+198, Hyundai , Hyundai Creta,2015,970399,21586,2nd Owner,Diesel,31255,1.6 SX CRDI Manual
+199, Maruti , Maruti Baleno,2018,659499,14670,1st Owner,Petrol,16093,DELTA 1.2 K12 Manual
+200, Maruti , Maruti Wagon R ,2014,351099,7810,1st Owner,Petrol,23640,LXI Manual
+201, Maruti , Maruti Wagon R ,2016,430499,9576,1st Owner,Petrol,9073,VXI AMT Automatic
+202, Hyundai , Hyundai Eon,2013,252599,5619,1st Owner,Petrol,12171,D LITE Manual
+203, Toyota , Toyota Fortuner,2013,1348299,29992,3rd Owner,Diesel,81829,3.0 AT 4X2 Automatic
+204, Maruti , Maruti Alto ,2015,297099,6609,1st Owner,Petrol,11184,LXI Manual
+205, Maruti , Maruti Ritz,2013,384399,8551,1st Owner,Petrol,13858,ZXI Manual
+206, Maruti , Maruti Ertiga,2019,1104999,24580,1st Owner,Petrol,27724,ZXI SMART HYBRID AT Automatic
+207, Hyundai , Hyundai i,2014,411599,9156,2nd Owner,Petrol,9249,ASTA 1.2 Manual
+208, Hyundai , Hyundai Grand i,2017,465799,10361,1st Owner,Diesel,32953,magna 1.2 crdi Manual
+209, Hyundai , Hyundai Grand i,2018,475699,10582,1st Owner,Petrol,17176,MAGNA 1.2 VTVT Manual
+210, BMW , BMW ,2012,859499,19119,1st Owner,Diesel,77100,320D Automatic
+211, Renault , Renault TRIBER,2019,659699,14675,1st Owner,Petrol,5248,1.0 RXT Manual
+212, Volkswagen , Volkswagen Polo,2014,426499,9487,1st Owner,Petrol,56987,HIGHLINE1.2L PETROL Manual
+213, Maruti , Maruti Baleno,2016,511899,11387,2nd Owner,Petrol,58181,DELTA 1.2 K12 Manual
+214, Hyundai , Hyundai i,2011,309299,6880,2nd Owner,Petrol,56248,SPORTZ 1.2 O Manual
+215, Hyundai , Hyundai Elite i,2017,610099,13571,1st Owner,Petrol,5305,SPORTZ 1.2 Manual
+216, Maruti , Maruti Swift Dzire,2012,464499,10333,1st Owner,Diesel,54393,VDI BS IV Manual
+217, Maruti , Maruti New  Wagon-R,2019,549999,12234,1st Owner,Petrol,14787,1.0 VXI (O) Manual
+218, Volkswagen , Volkswagen Polo,2014,574499,12779,1st Owner,Petrol,25101,GT TSI 1.2 PETROL AT Automatic
+219, Maruti , Maruti Swift,2018,594099,13215,2nd Owner,Petrol,34148,VXI AMT Automatic
+220, Hyundai , Hyundai Elite i,2016,451799,10050,2nd Owner,Petrol,68040,MAGNA 1.2 Manual
+221, Hyundai , Hyundai Grand i,2018,508173,11304,1st Owner,Petrol,8849,SPORTZ O 1.2 Manual
+222, Maruti , Maruti Celerio,2016,431999,9610,2nd Owner,Petrol,20699,ZXI OPT AMT Automatic
+223, Hyundai , Hyundai Grand i,2015,460599,10246,1st Owner,Petrol,22793,SPORTZ 1.2 KAPPA VTVT Manual
+224, Maruti , Maruti Swift,2015,418499,9309,1st Owner,Petrol,55941,VXI Manual
+225, Hyundai , Hyundai Grand i,2016,410299,9127,2nd Owner,Petrol,54381,Magna 1.2 AT  VTVT Automatic
+226, Maruti , Maruti Swift,2018,654299,14555,1st Owner,Petrol,49406,ZXI+ Manual
+227, Toyota , Toyota Innova,2012,736099,16374,2nd Owner,Diesel,170530,2.5 GX 8 STR BS IV Manual
+228, Skoda , Skoda Rapid,2014,416099,9256,2nd Owner,Petrol,54004,AMBITION 1.6 MPI MT PLUS Manual
+229, KIA , KIA SELTOS,2019,1824699,40589,1st Owner,Diesel,19876,1.5 GTX+ AT Automatic
+230, Honda , Honda City,2015,541399,12043,2nd Owner,Petrol,57365,V MT PETROL Manual
+231, Jeep , Jeep Compass,2017,1229699,27354,1st Owner,Diesel,52627,2.0 SPORT Manual
+232, Ford , Ford Ecosport,2014,616099,13705,1st Owner,Diesel,67225,1.5 TITANIUMTDCI OPT Manual
+233, Maruti , Maruti Celerio,2015,403899,8985,1st Owner,Petrol,44439,VXI AMT Automatic
+234, Maruti , Maruti S PRESSO,2020,480599,10691,1st Owner,Petrol,37837,VXI PLUS Manual
+235, Honda , Honda Jazz,2017,536799,11941,1st Owner,Petrol,27159,1.2 S MT Manual
+236, Hyundai , Hyundai Elite i,2016,548699,12206,1st Owner,Petrol,33200,MAGNA 1.2 Manual
+237, Toyota , Toyota Corolla Altis,2016,925099,20578,1st Owner,Petrol,91007,VL AT Automatic
+238, Mahindra , Mahindra XUV,2020,1707999,37993,1st Owner,Diesel,36317,W9 Manual
+239, Maruti , Maruti Baleno,2016,578099,12859,1st Owner,Petrol,27730,DELTA 1.2 K12 Manual
+240, Toyota , Toyota Corolla Altis,2015,916899,20396,1st Owner,Petrol,60049,VL AT Automatic
+241, Maruti , Maruti Wagon R ,2016,430099,9567,1st Owner,Petrol,9459,VXI AMT Automatic
+242, Maruti , Maruti Swift,2017,598099,13304,1st Owner,Petrol,6620,VXI OPT Manual
+243, Hyundai , Hyundai Elite i,2016,567899,12633,1st Owner,Petrol,59022,SPORTZ 1.2 Manual
+244, Toyota , Toyota Glanza,2020,759099,16886,1st Owner,Petrol,291,G MT PETROL Manual
+245, Maruti , Maruti Baleno,2019,799599,17787,1st Owner,Petrol,7561,Zeta 1.2 K12 SHVS 
+246, Honda , Honda Jazz,2016,530599,11803,1st Owner,Petrol,76497,1.2 V MT Manual
+247, Honda , Honda Brio,2014,416399,9263,1st Owner,Petrol,75652,1.2 VX AT I VTEC Automatic
+248, Maruti , Maruti Wagon R ,2016,443899,9874,1st Owner,Petrol,10258,VXI AMT Automatic
+249, Toyota , Toyota Innova,2015,921999,20509,1st Owner,Diesel,128958,2.5 GX 8 STR BS IV Manual
+250, Maruti , Maruti Vitara Brezza,2016,734599,16341,1st Owner,Diesel,22495,VDI OPT Manual
+251, Hyundai , Hyundai Creta,2020,1780399,39604,1st Owner,Diesel,38423,SX (O) DIESEL AT Automatic
+252, Maruti , Maruti Baleno,2016,561449,12489,2nd Owner,Petrol,32994,ZETA 1.2 K12 Manual
+253, Hyundai , Hyundai Elite i,2016,540199,12016,1st Owner,Petrol,19504,MAGNA 1.2 Manual
+254, Maruti , Maruti Alto K,2014,323299,7192,1st Owner,Petrol + CNG,25886,LXI CNG Manual
+255, Honda , Honda Amaze,2019,657199,14619,1st Owner,Petrol,4603,1.2 SMT I VTEC Manual
+256, Honda , Honda Jazz,2016,530299,11796,1st Owner,Petrol,87935,1.2 V AT Automatic
+257, Maruti , Maruti Alto ,2018,345288,7681,1st Owner,Petrol,10596,LXI Manual
+258, Volkswagen , Volkswagen Ameo,2018,657499,14626,1st Owner,Diesel,82907,HIGHLINE PLUS 1.5 Manual
+259, Maruti , Maruti Ciaz,2016,723699,16098,1st Owner,Diesel,74509,ZDI SHVS Manual
+260, Maruti , Maruti Baleno,2019,762099,16952,1st Owner,Petrol,21407,ZETA 1.2 K12 Manual
+261, Hyundai , Hyundai Creta,2016,988499,21989,1st Owner,Diesel,79111,1.6 SX PLUS DIESEL Manual
+262, Maruti , Maruti Baleno,2019,736099,16374,2nd Owner,Petrol,23801,ZETA 1.2 K12 Manual
+263, Hyundai , Hyundai VENUE,2019,964299,21450,1st Owner,Petrol,20903,1.0L Turbo GDI SX MT Manual
+264, Honda , Honda WR-V,2018,725599,16141,1st Owner,Petrol,29828,1.2 i-VTEC VX MT Manual
+265, Hyundai , Hyundai Elite i,2019,740899,16481,1st Owner,Petrol,7742,1.2 SPORTS PLUS VTVT Manual
+266, Maruti , Maruti Vitara Brezza,2020,1062799,23641,1st Owner,Petrol,2735,ZXI + Manual
+267, Maruti , Maruti Swift Dzire,2013,443099,9856,1st Owner,Diesel,161934,VDI Manual
+268, Maruti , Maruti Swift Dzire,2014,491899,10942,1st Owner,Diesel,108347,VDI BS IV Manual
+269, MG , MG HECTOR,2019,1835999,40841,1st Owner,Petrol,14267,SHARP DCT PETROL Automatic
+270, Maruti , Maruti Vitara Brezza,2016,722999,16083,1st Owner,Diesel,39224,VDI Manual
+271, Hyundai , Hyundai Grand i,2017,474199,10548,1st Owner,Petrol,40063,SPORTZ 1.2 KAPPA VTVT Manual
+272, Honda , Honda City,2018,881399,19606,1st Owner,Petrol,18432,V MT PETROL Manual
+273, Maruti , Maruti Baleno,2016,604699,13451,1st Owner,Diesel,85518,ALPHA DDIS 190 Manual
+274, Maruti , Maruti Baleno,2019,717499,15960,1st Owner,Petrol,22695,ALPHA 1.2 K12 Manual
+275, Datsun , Datsun Redi Go,2017,311399,6927,1st Owner,Petrol,13470,T (O) Manual
+276, Hyundai , Hyundai i,2016,539399,11999,1st Owner,Petrol,69748,1.2 S Manual
+277, Hyundai , Hyundai Verna,2019,1143799,25443,1st Owner,Petrol,25130,1.6 SX VTVT AT (O) Automatic
+278, Maruti , Maruti Dzire,2017,654299,14555,1st Owner,Diesel,161435,VDI Manual
+279, Hyundai , Hyundai Creta,2017,1226799,27289,1st Owner,Diesel,86684,1.6 CRDI SX PLUS AUTO Automatic
+280, Honda , Honda City,2017,941599,20945,2nd Owner,Petrol,55625,ZX CVT Automatic
+281, Maruti , Maruti Baleno,2015,542699,12072,1st Owner,Petrol,46926,ALPHA 1.2 K12 Manual
+282, Datsun , Datsun Redi Go,2018,356099,7921,1st Owner,Petrol,15284,1.0 S AT Automatic
+283, Hyundai , Hyundai Verna,2018,1131799,25176,1st Owner,Petrol,40429,1.6 SX VTVT AT (O) Automatic
+284, Maruti , Maruti Vitara Brezza,2017,761599,16941,1st Owner,Diesel,43004,VDI Manual
+285, Maruti , Maruti Vitara Brezza,2017,794699,17678,1st Owner,Diesel,68616,ZDI PLUS Manual
+286, Honda , Honda City,2020,1338299,29770,1st Owner,Petrol,9353,VX CVT PETROL Automatic
+287, KIA , KIA SELTOS,2020,1845599,41054,1st Owner,Petrol,35041,1.4 GTX+ TURBO GDI PETROL AT Automatic
+288, Ford , Ford Ecosport,2018,802099,17842,1st Owner,Petrol,48102,TREND + 1.5 TI VCT AT Automatic
+289, Honda , Honda WR-V,2018,787299,17513,2nd Owner,Diesel,50303,1.5 i-DTEC VX MT Manual
+290, Hyundai , Hyundai Verna,2018,1073399,23877,2nd Owner,Petrol,24359,1.6 SX VTVT AT (O) Automatic
+291, Hyundai , Hyundai Verna,2018,1025299,22807,2nd Owner,Petrol,16957,1.6 SX VTVT AT (O) Automatic
+292, Maruti , Maruti Dzire,2020,804559,17897,1st Owner,Petrol,9800,VXI AMT Automatic
+293, Maruti , Maruti Ertiga,2019,1050799,23374,2nd Owner,Petrol,18762,ZXI SMART HYBRID AT Automatic
+294, Maruti , Maruti Swift,2015,401299,8927,2nd Owner,Petrol,28725,VXI Manual
+295, Renault , Renault TRIBER,2020,661199,14708,1st Owner,Petrol,19677,RXL AT Automatic
+296, Maruti , Maruti Swift Dzire,2012,441299,9816,1st Owner,Diesel,50487,VDI BS IV Manual
+297, Hyundai , Hyundai Grand i,2016,403999,8987,3rd Owner,Petrol,23846,SPORTS 1.2 VTVT Manual
+298, Maruti , Maruti Swift Dzire,2014,447599,9957,1st Owner,Petrol,40877,VXI 1.2 BS IV Manual
+299, Tata , Tata NEXON,2017,768199,17088,1st Owner,Petrol,19863,XZ+ 1.2 Manual
+300, Maruti , Maruti Alto ,2013,256499,5706,1st Owner,Petrol,40509,LXI Manual
+301, Maruti , Maruti Swift,2014,388599,8644,2nd Owner,Petrol,56830,VXI Manual
+302, Volkswagen , Volkswagen Polo,2016,665799,14810,1st Owner,Petrol,41795,GT TSI 1.2 PETROL AT Automatic
+303, Toyota , Toyota Innova Crysta,2016,1486559,33068,1st Owner,Diesel,74162,2.8 GX AT 8 STR Automatic
+304, Hyundai , Hyundai Creta,2020,1286799,28624,1st Owner,Petrol,11301,S PETROL MT Manual
+305, KIA , KIA SELTOS,2019,1617199,35974,1st Owner,Petrol,5914,GTX+ 1.4 MT Manual
+306, Maruti , Maruti Swift Dzire,2012,401499,8931,1st Owner,Diesel,162410,VDI BS IV Manual
+307, Maruti , Maruti Alto ,2013,253199,5632,1st Owner,Petrol,45886,LXI Manual
+308, Hyundai , Hyundai Grand i,2016,436199,9703,1st Owner,Petrol,40124,SPORTZ 1.2 KAPPA VTVT Manual
+309, Hyundai , Hyundai Grand i,2018,507299,11285,1st Owner,Petrol,22796,MAGNA 1.2 KAPPA VTVT Manual
+310, Maruti , Maruti Wagon R ,2017,393999,8764,3rd Owner,Petrol,11435,VXI Manual
+311, Maruti , Maruti Ciaz,2016,615999,13703,2nd Owner,Petrol,24103,VXI PLUS Manual
+312, Renault , Renault Kwid,2019,460099,10235,1st Owner,Petrol,7765,RXT 1.0 EASY-R AT OPTION Automatic
+313, Hyundai , Hyundai Grand i,2014,417699,9291,1st Owner,Petrol,26735,SPORTZ 1.2 KAPPA VTVT Manual
+314, Honda , Honda BR-V,2016,731299,16267,1st Owner,Petrol,44915,1.5 i-VTEC V CVT Automatic
+315, Maruti , Maruti Swift,2014,422299,9394,2nd Owner,Petrol,58873,VXI Manual
+316, Mahindra , Mahindra Scorpio,2017,1246499,27728,2nd Owner,Diesel,52077,S10 Intelli Hybrid 2WD Manual
+317, Toyota , Toyota Corolla Altis,2014,693699,15431,1st Owner,Petrol,55578,G Manual
+318, Honda , Honda City,2014,554499,12335,2nd Owner,Petrol,16541,S MT PETROL Manual
+319, Tata , Tata NEXON,2018,857199,19068,1st Owner,Petrol,38171,XZ+ 1.2 DUAL TONE Manual
+320, Hyundai , Hyundai Grand i,2014,439099,9768,1st Owner,Petrol,26983,SPORTZ 1.2 KAPPA VTVT Manual
+321, Hyundai , Hyundai Elite i,2017,540499,12023,2nd Owner,Petrol,22549,SPORTZ 1.2 Manual
+322, Volkswagen , Volkswagen Polo,2017,672499,14959,2nd Owner,Petrol,40279,GT TSI 1.2 PETROL AT Automatic
+323, Hyundai , Hyundai i,2011,306499,6818,2nd Owner,Petrol,94323,SPORTZ 1.2 O Manual
+324, Maruti , Maruti Celerio,2017,452099,10057,1st Owner,Petrol,36763,ZXI Manual
+325, Maruti , Maruti Celerio,2018,480999,10700,1st Owner,Petrol,18389,VXI (O) Manual
+326, Toyota , Toyota Innova Crysta,2018,1814599,40365,1st Owner,Diesel,38559,2.4 VX 7 STR Manual
+327, Maruti , Maruti Celerio,2018,530299,11796,1st Owner,Petrol,6305,ZXI OPT Manual
+328, Maruti , Maruti Ertiga,2016,779999,17351,2nd Owner,Diesel,67194,ZDI SHVS Manual
+329, KIA , KIA SELTOS,2019,1567899,34877,1st Owner,Petrol,14370,GTX+ 1.4 MT Manual
+330, Volkswagen , Volkswagen Ameo,2016,450699,10026,2nd Owner,Petrol,38046,COMFORTLINE 1.2 Manual
+331, Maruti , Maruti Baleno,2016,535999,11923,1st Owner,Petrol,25082,DELTA 1.2 K12 Manual
+332, Honda , Honda City,2018,778599,17320,2nd Owner,Petrol,15132,SV MT PETROL Manual
+333, Maruti , Maruti Ciaz,2020,903199,20091,1st Owner,Petrol,14444,DELTA 1.5 SHVS VVT MT Manual
+334, Volkswagen , Volkswagen Vento,2016,619099,13772,1st Owner,Petrol,76689,HIGHLINE 1.2 TSI AT Automatic
+335, Hyundai , Hyundai Grand i,2016,449899,10008,1st Owner,Petrol,26979,SPORTS 1.2 VTVT Manual
+336, Ford , Ford Ecosport,2018,799799,17791,1st Owner,Diesel,28127,1.5 AMBIENTE TDCI Manual
+337, Hyundai , Hyundai Grand i,2013,392999,8742,1st Owner,Petrol,29411,SPORTZ 1.2 KAPPA VTVT Manual
+338, Maruti , Maruti Wagon R ,2016,433799,9650,1st Owner,Petrol,20771,VXI Manual
+339, Hyundai , Hyundai Elite i,2017,598599,13316,1st Owner,Petrol,6954,SPORTZ 1.2 Manual
+340, Maruti , Maruti Vitara Brezza,2019,838699,18656,1st Owner,Diesel,30236,VDI Manual
+341, Maruti , Maruti Wagon R ,2015,346099,7699,1st Owner,Petrol,44433,LXI Manual
+342, Hyundai , Hyundai VENUE,2019,975099,21691,1st Owner,Diesel,73561,1.4 CRDI S MT Manual
+343, Ford , Ford Ecosport,2017,617899,13745,1st Owner,Petrol,21407,1.5AMBIENTE TI VCT Manual
+344, Honda , Honda Jazz,2016,517599,11514,1st Owner,Petrol,53879,1.2 S MT Manual
+345, MG , MG HECTOR,2019,1746699,38854,1st Owner,Diesel,12937,SMART DIESEL Manual
+346, Maruti , Maruti Eeco,2018,446599,9934,1st Owner,Petrol + CNG,75193,5 STR CNG WITH AC PLUSHTR Manual
+347, Maruti , Maruti Ertiga,2016,846699,18834,1st Owner,Diesel,58181,ZDI SHVS Manual
+348, Hyundai , Hyundai Creta,2018,1353899,30117,1st Owner,Petrol,21203,1.6 VTVT SX AUTO Automatic
+349, Toyota , Toyota Etios,2017,591399,13155,1st Owner,Petrol,73896,V Manual
+350, Maruti , Maruti Baleno,2016,567599,12626,1st Owner,Petrol,9363,DELTA 1.2 K12 Manual
+351, Maruti , Maruti Vitara Brezza,2019,904599,20122,2nd Owner,Diesel,27166,ZDI Manual
+352, Honda , Honda Amaze,2019,806699,17945,2nd Owner,Diesel,24978,VX AT I DTEC Automatic
+353, Maruti , Maruti Dzire,2020,785099,17464,1st Owner,Petrol,17083,VXI AMT Automatic
+354, Toyota , Toyota Corolla Altis,2014,664499,14781,2nd Owner,Petrol,22434,J S Manual
+355, Maruti , Maruti Swift,2015,471299,10484,1st Owner,Diesel,142995,VDI Manual
+356, Hyundai , Hyundai Grand i,2016,467699,10404,1st Owner,Petrol,32766,SPORTZ 1.2 KAPPA VTVT Manual
+357, Hyundai , Hyundai Creta,2015,851999,18952,1st Owner,Petrol,60227,1.6 SX PLUS PETROL Manual
+358, Maruti , Maruti Alto K,2019,390299,8682,1st Owner,Petrol,9370,VXI Manual
+359, Volkswagen , Volkswagen Vento,2016,750699,16699,1st Owner,Diesel,49357,HIGHLINE TDI AT Automatic
+360, Hyundai , Hyundai Elite i,2019,893799,19882,1st Owner,Petrol,16358,1.2  ASTA (O) CVT Automatic
+361, Honda , Honda Jazz,2019,845999,18819,1st Owner,Petrol,6006,1.2 VX AT Automatic
+362, Ford , Ford Ecosport,2017,731699,16276,1st Owner,Diesel,20082,1.5 AMBIENTE TDCI Manual
+363, Hyundai , Hyundai Elite i,2016,590899,13144,1st Owner,Petrol,67248,SPORTZ 1.2 Manual
+364, Hyundai , Hyundai Grand i,2016,520499,11578,1st Owner,Petrol,16989,Magna 1.2 AT  VTVT Automatic
+365, Maruti , Maruti Dzire,2017,708899,15769,1st Owner,Petrol,38393,ZXI Manual
+366, Honda , Honda Amaze,2019,817899,18194,1st Owner,Petrol,6341,1.2 V CVT I VTEC Automatic
+367, Hyundai , Hyundai Elite i,2015,499099,11102,1st Owner,Petrol,63961,SPORTZ 1.2 Manual
+368, Hyundai , Hyundai Elite i,2019,769999,17128,1st Owner,Petrol,34853,ASTA 1.2 (O) Manual
+369, Maruti , Maruti Baleno,2017,581499,12935,1st Owner,Petrol,28197,DELTA 1.2 K12 Manual
+370, Hyundai , Hyundai VENUE,2020,1011099,22491,1st Owner,Petrol,18221,SX 1.0 GDI IMT Manual
+371, Maruti , Maruti Dzire,2020,763799,16990,1st Owner,Petrol,8384,VXI Manual
+372, Maruti , Maruti Wagon R ,2015,364799,8115,1st Owner,Petrol,54872,VXI Manual
+373, Maruti , Maruti Baleno,2016,624099,13883,1st Owner,Diesel,45380,ALPHA DDIS 190 Manual
+374, Jeep , Jeep Compass,2017,1427199,31747,1st Owner,Diesel,24588,2.0 LONGITUDE (O) Manual
+375, Honda , Honda Jazz,2018,711499,15827,1st Owner,Petrol,26796,1.2 V MT Manual
+376, Maruti , Maruti Dzire,2018,666899,14835,1st Owner,Petrol,71772,VXI Manual
+377, Maruti , Maruti Vitara Brezza,2019,862699,19190,1st Owner,Diesel,57702,ZDI Manual
+378, Hyundai , Hyundai VENUE,2019,920999,20487,2nd Owner,Petrol,22716,1.0L Turbo GDI SX MT Manual
+379, Maruti , Maruti Baleno,2018,600599,13360,1st Owner,Petrol,26382,DELTA 1.2 K12 Manual
+380, Maruti , Maruti Baleno,2016,528899,11765,1st Owner,Petrol,83600,ZETA 1.2 K12 Manual
+381, Maruti , Maruti Ciaz,2018,735099,16352,1st Owner,Petrol,44452,ZETA 1.4 VVT Manual
+382, Maruti , Maruti Baleno,2017,561999,12501,1st Owner,Petrol,69421,ALPHA 1.2 K12 Manual
+383, Hyundai , Hyundai Elite i,2019,853199,18979,1st Owner,Petrol,25349,1.2  ASTA (O) CVT Automatic
+384, MG , MG HECTOR,2019,1835999,40841,1st Owner,Petrol,18570,SHARP DCT PETROL Automatic
+385, Maruti , Maruti Dzire,2017,604799,13453,1st Owner,Petrol,57977,VXI AMT Automatic
+386, Maruti , Maruti Baleno,2016,540999,12034,1st Owner,Petrol,40361,DELTA 1.2 K12 Manual
+387, Maruti , Maruti Dzire,2018,693299,15422,1st Owner,Petrol,41034,VXI Manual
+388, Honda , Honda CRV,2014,1060699,23595,1st Owner,Petrol,103411,2.4 AT 4WD AVN Automatic
+389, Hyundai , Hyundai Elite i,2017,614699,13674,1st Owner,Petrol,10022,SPORTZ 1.2 Manual
+390, Hyundai , Hyundai Elite i,2017,569999,12679,1st Owner,Petrol,63277,SPORTZ 1.2 Manual
+391, Hyundai , Hyundai Elite i,2016,548299,12197,1st Owner,Petrol,76366,ASTA 1.2 (O) Manual
+392, Maruti , Maruti Ciaz,2018,730499,16250,1st Owner,Petrol,51725,ZETA 1.4 VVT Manual
+393, Maruti , Maruti Baleno,2017,594499,13224,1st Owner,Petrol,16734,ZETA 1.2 K12 Manual
+394, Maruti , Maruti Dzire,2018,741999,16505,1st Owner,Diesel,47158,VDI Manual
+395, Hyundai , Hyundai Elite i,2017,658699,14652,1st Owner,Petrol,25348,ASTA 1.2 (O) Manual
+396, Honda , Honda WR-V,2018,743299,16534,2nd Owner,Petrol,14930,1.2 i-VTEC VX MT Manual
+397, Ford , Ford Figo Aspire,2017,465699,10359,1st Owner,Diesel,141022,1.5 TITANIUM DIESEL Manual
+398, Skoda , Skoda Rapid,2021,1247299,27745,1st Owner,Petrol,4245,1.0 AMBITION TSI AT Automatic
+399, Maruti , Maruti Dzire,2018,704199,15665,1st Owner,Petrol,6829,VXI Manual
+400, Maruti , Maruti S PRESSO,2020,534699,11894,1st Owner,Petrol,2799,VXI PLUS AGS Automatic
+401, Hyundai , Hyundai VENUE,2019,992899,22086,2nd Owner,Petrol,26191,1.0 SX TURBO GDI DUAL TONE Manual
+402, Honda , Honda Jazz,2020,1072599,23859,1st Owner,Petrol,11909,ZX CVT Automatic
+403, Skoda , Skoda Octavia,2018,1787199,39755,1st Owner,Petrol,26809,LK 1.8 TSI AT Automatic
+404, Hyundai , Hyundai Elite i,2017,698799,15544,1st Owner,Petrol,19673,ASTA 1.2 (O) Manual
+405, Hyundai , Hyundai i,2016,557399,12399,1st Owner,Petrol,47707,1.2 Manual
+406, Maruti , Maruti Ciaz,2018,940299,20916,1st Owner,Diesel,56836,ALPHA 1.3 DDIS SHVS Manual
+407, Maruti , Maruti Baleno,2016,586699,13051,1st Owner,Petrol,47421,ZETA 1.2 K12 Manual
+408, Maruti , Maruti Baleno,2016,583699,12984,1st Owner,Petrol,76773,ALPHA 1.2 K12 Manual
+409, Hyundai , Hyundai VENUE,2021,1333899,29672,1st Owner,Petrol,3028,1.0 TURBO GDI SX+ AT Automatic
+410, Maruti , Maruti Vitara Brezza,2017,755699,16810,1st Owner,Diesel,78266,ZDI Manual
+411, Honda , Honda Amaze,2019,814099,18109,1st Owner,Petrol,13164,1.2 VX CVT I VTEC Automatic
+412, Honda , Honda City,2018,1153229,25653,1st Owner,Petrol,10411,ZX CVT Automatic
+413, MG , MG HECTOR,2019,1692299,37644,2nd Owner,Petrol,7231,SHARP DCT PETROL Automatic
+414, Maruti , Maruti S PRESSO,2021,481199,10704,1st Owner,Petrol,3654,VXI PLUS Manual
+415, Ford , Ford Ecosport,2017,726999,16172,1st Owner,Diesel,30575,1.5 TDCI TITANIUM PLUS Manual
+416, Hyundai , Hyundai Grand i,2016,510599,11358,1st Owner,Petrol,71122,ASTA AT 1.2 KAPPA VTVT Automatic
+417, Honda , Honda WR-V,2018,767599,17075,1st Owner,Petrol,25660,1.2 i-VTEC VX MT Manual
+418, Honda , Honda City,2018,1051799,23397,1st Owner,Petrol,33613,ZX CVT Automatic
+419, Maruti , Maruti Alto,2021,449699,10003,1st Owner,Petrol,3401,VXI PLUS Manual
+420, Honda , Honda City,2018,917099,20400,1st Owner,Petrol,25153,V CVT Automatic
